@@ -26,6 +26,7 @@ https://stackoverflow.com/questions/50822889/how-to-get-vesa-bios-information
 
 ## IMPORTANT
 https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard-and
+https://github.com/arjun024/mkeykernel
 
 # my questions
 https://stackoverflow.com/questions/65946212/is-there-any-way-that-i-can-implement-a-premade-usbhid-driver-into-my-kernel-tha
