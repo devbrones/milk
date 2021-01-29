@@ -20,6 +20,8 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 
 https://lennartb.home.xs4all.nl/coreboot/col3.html
 
+https://www.eevblog.com/forum/microcontrollers/intel-bare-metal-programming/
+
 # my questions
 https://stackoverflow.com/questions/65946212/is-there-any-way-that-i-can-implement-a-premade-usbhid-driver-into-my-kernel-tha
 # external sources
