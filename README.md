@@ -2,7 +2,7 @@
 MIcro Linked Kernel
 # version 
 Current version = alpha_1.2
-
+Stable version = ***alpha_1 alpha_1.1*** alpha_1.2
 ## TODO ##
 
 -? = not mandatory 
