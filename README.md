@@ -9,7 +9,7 @@ Stable version = ***alpha_1 alpha_1.1*** alpha_1.2
 `pld/`, Where the .o files will be put after compilation (pld=preLD).\
 `docs/`, Where all of the documenation for the project is kept.
 ## TODO
--? = not mandatory 
+-? = not mandatory\
 add support for ps2, research the protocol and get understanding of how the kernel interacts with system devices\
 add a prompt\
 add support for networking over serial bus, maybe tcp/ip stack\
