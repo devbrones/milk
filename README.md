@@ -1,5 +1,7 @@
 # milk
 MIcro Linked Kernel
+# version 
+Current version = alpha_1.2
 
 ## TODO ##
 
