@@ -24,6 +24,9 @@ https://www.eevblog.com/forum/microcontrollers/intel-bare-metal-programming/
 
 https://stackoverflow.com/questions/50822889/how-to-get-vesa-bios-information
 
+## IMPORTANT
+https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard-and
+
 # my questions
 https://stackoverflow.com/questions/65946212/is-there-any-way-that-i-can-implement-a-premade-usbhid-driver-into-my-kernel-tha
 # external sources
