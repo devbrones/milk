@@ -2,7 +2,11 @@
 MIcro Linked Kernel
 ## version 
 Current version = alpha_1.3\
-Stable version = ***alpha_1 alpha_1.1*** [alpha_1.2](https://github.com/devbrones/milk/releases)
+Stable version = 
+```diff 
+- alpha_1 alpha_1.1
+``` 
+[alpha_1.2](https://github.com/devbrones/milk/releases)
 ## Directory Structure
 `bin/`, Where binaries are kept.\
 `src/`, Where the source code is located.\
