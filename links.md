@@ -13,6 +13,13 @@ https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
 https://www.informit.com/articles/article.aspx?p=1220426
 
 https://wiki.osdev.org/%228042%22_PS/2_Controller#USB_Legacy_Support
+
+https://stackoverflow.com/questions/46025508/how-do-i-implement-basic-i-o-functionality-as-in-x86-when-writing-an-os-on-arm
+
+https://github.com/cirosantilli/x86-bare-metal-examples
+
+https://lennartb.home.xs4all.nl/coreboot/col3.html
+
 # my questions
 https://stackoverflow.com/questions/65946212/is-there-any-way-that-i-can-implement-a-premade-usbhid-driver-into-my-kernel-tha
 # external sources
