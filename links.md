@@ -12,6 +12,7 @@ https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
 
 https://www.informit.com/articles/article.aspx?p=1220426
 
+https://wiki.osdev.org/%228042%22_PS/2_Controller#USB_Legacy_Support
 # my questions
 https://stackoverflow.com/questions/65946212/is-there-any-way-that-i-can-implement-a-premade-usbhid-driver-into-my-kernel-tha
 # external sources
