@@ -1,11 +1,15 @@
 # milk
 MIcro Linked Kernel
-# version 
+## version 
 Current version = alpha_1.3\
-Stable version = ***alpha_1 alpha_1.1*** alpha_1.2 
-
+Stable version = ***alpha_1 alpha_1.1*** alpha_1.2
+## Directory Structure
+`bin/`, Where binaries are kept.\
+`src/`, Where the source code is located.\
+`pld/`, Where the .o files will be put after compilation (pld=preLD).\
+`docs/`, Where all of the documenation for the project is kept.
+## TODO
 -? = not mandatory 
-
 add support for ps2, research the protocol and get understanding of how the kernel interacts with system devices\
 add a prompt\
 add support for networking over serial bus, maybe tcp/ip stack\
