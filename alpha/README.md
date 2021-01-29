@@ -22,3 +22,6 @@ https://github.com/devbrones/milk/wiki
 ## Contact the developer
 Im available for contact through issues or over email. 
 [email]: developer.contact.devbrones@protonmail.com
+
+##NEWLINK
+https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard-and
