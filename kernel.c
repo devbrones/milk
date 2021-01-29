@@ -1,6 +1,3 @@
-#define VGA_ADDRESS 0xB8000   /* video memory begins here. */
-
-/* VGA provides support for 16 colors */
 #include <kernel.h>
 
 unsigned short *terminal_buffer;
