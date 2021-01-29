@@ -1,8 +1,8 @@
 # milk
 MIcro Linked Kernel
 # version 
-Current version = alpha_1.2
-Stable version = ***alpha_1 alpha_1.1*** alpha_1.2
+Current version = alpha_1.3\
+Stable version = ***alpha_1 alpha_1.1*** alpha_1.2 alpha_1.3
 ## TODO ##
 
 -? = not mandatory 
