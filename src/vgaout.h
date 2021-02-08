@@ -1,4 +1,4 @@
-#include <kernel.h>
+#include <kernelentries.h>
 
 unsigned short *terminal_buffer;
 unsigned int vga_index;
