@@ -1,7 +1,7 @@
 #include <kernelentries.h>
 #include <vgaout.h>
-#include <idt.c>
-#include <kbh.c>
+#include <idt.h>
+#include <kbh.h>
 
 void main(void)
 {
@@ -20,5 +20,7 @@ void main(void)
 	print_string("test", PINK);
 	vga_index = 400;
 	return;
+	/*this is where we want to initialise the keyboard input, we would do this by sending commands to the controller that are defined in the boot.asm file, we can use strings such as kbin() and kbsend() and kbinit()*/
+	
 }
 
