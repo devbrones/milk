@@ -8,14 +8,18 @@ section .multiboot               ;according to multiboot spec
 
 section .text
 global start
+global kbin	
+global kbsend
+global load_idt
+global keyboard_handler
 extern main                      ;defined in the C file
 
-read_port:
+kbin:
 		mov edx, [esp + 4]
 		in al, dx
 		ret
 
-write_port:
+kbsend:
 		mov edx, [esp + 4]
 		mov al, [esp + 4 + 4]
 		out dx, al
