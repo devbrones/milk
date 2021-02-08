@@ -1,6 +1,6 @@
 #include <kernelentries.h>
 #include <vgaout.h>
-#include <idt.h>
+#include <idt.c>
 #include <kbh.c>
 
 void main(void)
