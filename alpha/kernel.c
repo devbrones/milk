@@ -1,5 +1,7 @@
 #include <kernelentries.h>
 #include <vgaout.h>
+#include <idt.h>
+#include <kbh.c>
 
 void main(void)
 {
