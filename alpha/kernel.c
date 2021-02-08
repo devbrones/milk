@@ -1,6 +1,5 @@
-#include <vgacolor.h>
+#include <kernelentries.h>
 #include <vgaout.h>
-#include <stdio.h>
 
 void main(void)
 {
