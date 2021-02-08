@@ -12,6 +12,7 @@ global kbin
 global kbsend
 global load_idt
 global keyboard_handler
+extern keyboard_handler_main
 extern main                      ;defined in the C file
 
 kbin:
