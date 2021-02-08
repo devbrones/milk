@@ -1,4 +1,4 @@
-#include <vgacolor.h>
+#include <kernelentries.h>
 #include <vgaout.h>
 
 void main(void)
