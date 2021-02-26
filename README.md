@@ -17,7 +17,7 @@ add support for file system, like SFS or miniX\
 basic USB support (v1.0) is needed for file transfers\
 -?more colors for vga\
 -?basic cli interface with ascii art
-## Check out the wiki for instructions on how to install
+## Check out the wiki for instructions on how to compile
 https://github.com/devbrones/milk/wiki
 ## Contact the developer
 Im available for contact through issues or over email. 
