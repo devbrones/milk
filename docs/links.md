@@ -27,6 +27,9 @@ https://stackoverflow.com/questions/50822889/how-to-get-vesa-bios-information
 http://www.cpcmania.com/Docs/Programming/Sprites_I_Introduction_to_using_sprites.htm 
 
 https://www.purebasic.fr/english/viewtopic.php?t=64701
+
+https://stackoverflow.com/questions/606067/programming-graphics-in-assembler
+
 ## IMPORTANT
 https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard-and
 https://github.com/arjun024/mkeykernel
