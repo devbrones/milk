@@ -30,6 +30,9 @@ https://www.purebasic.fr/english/viewtopic.php?t=64701
 
 https://stackoverflow.com/questions/606067/programming-graphics-in-assembler
 
+https://wiki.osdev.org/VGA_Fonts
+
+
 ## IMPORTANT
 https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard-and
 https://github.com/arjun024/mkeykernel
